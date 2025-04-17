@@ -9,7 +9,7 @@ return {
 		-- stylua: ignore
 		require('lualine').setup {
 			options = {
-				theme = 'nord',
+				theme = 'iceberg_dark',
 				component_separators = '',
 				section_separators = { left = ''},
 			},
